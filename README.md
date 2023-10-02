@@ -1,1 +1,1 @@
-# SkillFactory-
+# SkillFactory/3_Object-oriented_Programming/Module_C1_Introduction_to_OOP/C1_2_Paradigms_and_principles_of_programming
